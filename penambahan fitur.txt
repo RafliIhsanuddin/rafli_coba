@@ -1,4 +1,4 @@
 pembuatan penambahan fitur
 
-- fitur login
-- fitur transaksi
+- fitur login:
+* id dan password
