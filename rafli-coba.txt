@@ -1,5 +1,5 @@
 rafli coba
 - pembelajaran GitHub selama 3 hari
 - membantu teman membuat tubes
-- membuat desain database
 - membantu membuat frontend
+- menggunakan tailwindcss
