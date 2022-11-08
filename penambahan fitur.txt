@@ -4,11 +4,11 @@ pembuatan penambahan fitur
 * fundamental struktur data
 * id dan password
 
--Framework JS
-  ^Angular
+- Framework JS
+  ^Vue
   ^React
--Framework PHP
-  ^Laravel
-
--Python
   
+ - Framework PHP
+  ^Laravel
+  
+  -Python
