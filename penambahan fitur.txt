@@ -1,4 +1,5 @@
 pembuatan penambahan fitur
 
 - fitur login:
+* fundamental struktur data
 * id dan password
