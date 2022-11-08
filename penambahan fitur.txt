@@ -3,3 +3,12 @@ pembuatan penambahan fitur
 - fitur login:
 * fundamental struktur data
 * id dan password
+
+- Framework JS
+  ^Vue
+  ^React
+  
+ - Framework PHP
+  ^Laravel
+  
+  -Python
